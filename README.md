@@ -14,7 +14,7 @@ This chart on campaign data based on launch dates shows that May and June have h
 ![outcome_launchDate.png]
 
 And finally according to this chart of goals and pledges for musicals in Great Britain we can see that the average pledged amount for a successful campaign was $1,047
-![goal_pledge_quartiles.png]
+![goal_pledge_quartiles.png](goal_pledge_quartiles.png)
 
 The average $1,047 successful 
 
