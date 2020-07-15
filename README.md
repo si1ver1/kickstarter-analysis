@@ -16,7 +16,7 @@ According to the Theatre Outcomes vs Launch chart we can see that both successfu
 Viewing the Outcomes Based on Goals chart we see a negative correlation where the success rate of a campaign decreases as the goal amount increases with a break between the $35,000 to $45,000 goal range where campaigns are more successful again.
 
 ### Challenges and Difficulties Encountered
-
+Some issues that posed a challenge were using the COUNTIFS statement in Excel to count the outcomes based on goals. Initially a missing " caused a failure in the equation.
 
 ## Results
 
