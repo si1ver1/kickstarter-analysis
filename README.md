@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-### Visualize campaign outcomes based on their launch dates and their funding goals
+### Visualize Theatre campaign outcomes on Kickstarter based on their launch dates and their funding goals
 
 ## Analysis and Challenges
 
